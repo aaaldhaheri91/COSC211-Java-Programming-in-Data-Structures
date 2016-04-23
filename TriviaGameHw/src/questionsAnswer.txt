@@ -1,0 +1,5 @@
+What is the disadvantage of using recursive functions?,memory stack,1
+What is the Big O notation of insertion sort algorithm at best case?,O(n),3
+What is the fastest sorting algorithm?,Quick Sort,2
+Does Java allow mutliple inheritance?,No,1
+Is C Programming a procedural language or OOP?,procedural,2
